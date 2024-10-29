@@ -1,4 +1,4 @@
-package nikomitk.personaldigitalagentmsspeisekarte.dto;
+package online.dhbw_studentprojekt.dto.speisekarte;
 
 import java.util.List;
 

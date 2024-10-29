@@ -1,4 +1,4 @@
-package fabiansig.dto.routing;
+package online.dhbw_studentprojekt.dto.routing.routing;
 
 public record RouteRequest(
         Origin origin,
