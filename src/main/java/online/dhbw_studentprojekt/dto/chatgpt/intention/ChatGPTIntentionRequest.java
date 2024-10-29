@@ -1,6 +1,6 @@
-package online.dhbw_studentprojekt.dto.chatgpt;
+package online.dhbw_studentprojekt.dto.chatgpt.intention;
 
-import nikomitk.mschatgpt.dto.standard.ChatGPTMessage;
+import online.dhbw_studentprojekt.dto.chatgpt.standard.ChatGPTMessage;
 
 import java.util.List;
 import java.util.Map;
